@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ad32eb68d3ddae",
+        "id": "a22d44cdb6e82906",
         "type": "tabs",
         "children": [
           {
-            "id": "017981da6b14b408",
+            "id": "ec33338dfb259377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Projetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daae4b125b4e8d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologias/Github.md",
+                "file": "Tarefas/Procurar tipos de automações para vender.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,16 +32,6 @@
         "id": "1bdfb261b1f0f035",
         "type": "tabs",
         "children": [
-          {
-            "id": "b3baf370a770b539",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "5ba549f6e2054646",
             "type": "leaf",
@@ -76,12 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "8c1669f679e5d9b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 695.5
   },
   "right": {
     "id": "01fd90d0c7ed7d1a",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Projetos.md",
+                "file": "Tarefas/Procurar tipos de automações para vender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Projetos.md",
+                "file": "Tarefas/Procurar tipos de automações para vender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Projetos.md"
+                "file": "Tarefas/Procurar tipos de automações para vender.md"
               }
             }
+          },
+          {
+            "id": "a608b3ee807ff13b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,24 +155,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "017981da6b14b408",
+  "active": "ec33338dfb259377",
   "lastOpenFiles": [
-    "Projetos/Grupo de estudos.md",
-    "Projetos/Projetos.md",
-    "Projetos/Trilhas.md",
+    "Tarefas/Criar trilhas.md",
+    "Tarefas/Procurar tipos de automações para vender.md",
+    "2023-07-20.md",
     "Projetos/Protótipo.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Projetos/Trilhas.md",
+    "integrantes/Duran.md",
+    "Projetos/Grupo de estudos.md",
+    "Tecnologias/Javascript.md",
+    "Aplicações/Yalon.md",
+    "Tecnologias/Github.md",
+    "Teórico/Monetização.md",
+    "Chegar nos Clientes.md",
+    "integrantes/Bastos.md",
+    "Tarefas",
+    "Teórico/Front-end.md",
+    "Projetos/Projetos.md",
     "integrantes.md",
     "Projetos/Obsidian.md",
-    "Teórico/Monetização.md",
     "Teórico/Back-end.md",
     "Teórico",
-    "Aplicações/Yalon.md",
     "Aplicações/NetherPortal.md",
-    "Tecnologias/Github.md",
     "Aplicações",
     "Tecnologias",
-    "Tecnologias/Javascript.md",
-    "Teórico/Front-end.md",
     "Tecnologias/React.md",
     "Tecnologias/Python.md",
     "Integrantes/Jayro.md",
@@ -182,10 +189,6 @@
     "Integrantes/Biel.md",
     "Integrantes/Bastos.md",
     "Projetos",
-    "Untitled.md",
-    "Untitled 1.md",
-    "2023-07-19.md",
-    "Untitled.canvas",
     "Integrantes"
   ]
 }
