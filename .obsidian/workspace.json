@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protótipo.md",
+                "file": "Projetos/Projetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Tecnologias/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protótipo.md",
+                "file": "Projetos/Projetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protótipo.md",
+                "file": "Projetos/Projetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protótipo.md"
+                "file": "Projetos/Projetos.md"
               }
             }
           }
@@ -159,29 +159,33 @@
   },
   "active": "017981da6b14b408",
   "lastOpenFiles": [
-    "Yalon.md",
-    "Protótipo.md",
-    "Grupo de estudos.md",
-    "integrantes/Duran.md",
+    "Projetos/Grupo de estudos.md",
+    "Projetos/Projetos.md",
+    "Projetos/Trilhas.md",
+    "Projetos/Protótipo.md",
     "integrantes.md",
-    "integrantes/Bastos.md",
-    "Javascript.md",
-    "Trilhas.md",
-    "integrantes/Jayro.md",
-    "Github.md",
-    "Front-end.md",
-    "React.md",
-    "Untitled 1.md",
-    "projetos.md",
-    "NetherPortal.md",
-    "Monetização.md",
+    "Projetos/Obsidian.md",
+    "Teórico/Monetização.md",
+    "Teórico/Back-end.md",
+    "Teórico",
+    "Aplicações/Yalon.md",
+    "Aplicações/NetherPortal.md",
+    "Tecnologias/Github.md",
+    "Aplicações",
+    "Tecnologias",
+    "Tecnologias/Javascript.md",
+    "Teórico/Front-end.md",
+    "Tecnologias/React.md",
+    "Tecnologias/Python.md",
+    "Integrantes/Jayro.md",
+    "Integrantes/Duran.md",
+    "Integrantes/Biel.md",
+    "Integrantes/Bastos.md",
+    "Projetos",
     "Untitled.md",
-    "integrantes/Biel.md",
+    "Untitled 1.md",
     "2023-07-19.md",
-    "Obsidian.md",
-    "Python.md",
     "Untitled.canvas",
-    "Back-end.md",
-    "integrantes"
+    "Integrantes"
   ]
 }

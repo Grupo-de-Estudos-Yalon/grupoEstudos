@@ -1,3 +1,3 @@
-#Pessoas 
+
 [[Javascript]]
 [[Github]]

@@ -1,4 +1,4 @@
-#Aplicação 
+
 ___
 ## Plugin para [[Obsidian]]
 ___

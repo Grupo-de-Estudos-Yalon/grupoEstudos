@@ -1,4 +1,3 @@
-#Teorico
 
 - [ ]  [[Front-end]]
 - [ ] [[Back-end]] 
