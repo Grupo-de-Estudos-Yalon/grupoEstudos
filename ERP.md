@@ -1,0 +1,1 @@
+![[Pasted image 20230720235015.png]]Enterprise Resource Planning

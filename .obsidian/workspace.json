@@ -6,6 +6,7 @@
       {
         "id": "a22d44cdb6e82906",
         "type": "tabs",
+        "dimension": 70.89108910891089,
         "children": [
           {
             "id": "ec33338dfb259377",
@@ -13,11 +14,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefas/Procurar tipos de automações para vender.md",
+                "file": "horários.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "d69a4d5878157672"
+          }
+        ]
+      },
+      {
+        "id": "7dbc955ad16eae0a",
+        "type": "tabs",
+        "dimension": 29.108910891089106,
+        "children": [
+          {
+            "id": "4f42f69953209699",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "horários.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4296780914342518,
+                  "close": true
+                }
+              }
+            },
+            "group": "d69a4d5878157672"
           }
         ]
       }
@@ -70,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.5
+    "width": 220.5
   },
   "right": {
     "id": "01fd90d0c7ed7d1a",
@@ -86,9 +131,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarefas/Procurar tipos de automações para vender.md",
+                "file": "horários.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarefas/Procurar tipos de automações para vender.md",
+                "file": "horários.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +161,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarefas/Procurar tipos de automações para vender.md"
+                "file": "horários.md"
               }
             }
           },
@@ -138,12 +183,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,20 +201,30 @@
   },
   "active": "ec33338dfb259377",
   "lastOpenFiles": [
-    "Tarefas/Criar trilhas.md",
-    "Tarefas/Procurar tipos de automações para vender.md",
-    "2023-07-20.md",
+    "Projetos/Grupo de estudos.md",
+    "integrantes/Duran.md",
+    "horários.md",
+    "Formação em T.md",
+    "Data Science.md",
+    "Projetos/Trilhas.md",
+    "PesquisarDuran.md",
+    "CRM.md",
+    "Pasted image 20230720235029.png",
+    "Pasted image 20230720235026.png",
+    "ERP.md",
+    "Pasted image 20230720235015.png",
+    "Teórico/Monetização.md",
+    "Chegar nos Clientes.md",
+    "Automação.md",
     "Projetos/Protótipo.md",
+    "Tarefas/Procurar tipos de automações para vender.md",
+    "Tarefas/Criar trilhas.md",
+    "2023-07-20.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Projetos/Trilhas.md",
-    "integrantes/Duran.md",
-    "Projetos/Grupo de estudos.md",
     "Tecnologias/Javascript.md",
     "Aplicações/Yalon.md",
     "Tecnologias/Github.md",
-    "Teórico/Monetização.md",
-    "Chegar nos Clientes.md",
     "integrantes/Bastos.md",
     "Tarefas",
     "Teórico/Front-end.md",
@@ -182,12 +236,6 @@
     "Aplicações/NetherPortal.md",
     "Aplicações",
     "Tecnologias",
-    "Tecnologias/React.md",
-    "Tecnologias/Python.md",
-    "Integrantes/Jayro.md",
-    "Integrantes/Duran.md",
-    "Integrantes/Biel.md",
-    "Integrantes/Bastos.md",
     "Projetos",
     "Integrantes"
   ]
