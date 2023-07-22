@@ -2,4 +2,4 @@
 [[Javascript]] 
 [[Github]]
 
-[[PesquisarDuran]]
+[[Notas de Estudos]]
