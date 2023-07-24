@@ -6,35 +6,46 @@
       {
         "id": "a22d44cdb6e82906",
         "type": "tabs",
-        "dimension": 70.89108910891089,
+        "dimension": 21.69197396963124,
         "children": [
           {
             "id": "ec33338dfb259377",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230720235015.png"
+              }
+            }
+          },
+          {
+            "id": "ca0a6565f3e03722",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "horários.md",
+                "file": "integrantes/Duran.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "d69a4d5878157672"
+            "group": "4b360cd89c25abb6"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7dbc955ad16eae0a",
+        "id": "645c6c405897e850",
         "type": "tabs",
-        "dimension": 29.108910891089106,
+        "dimension": 78.30802603036877,
         "children": [
           {
-            "id": "4f42f69953209699",
+            "id": "356a6d2582a4a40c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "horários.md",
+                "file": "integrantes/Duran.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -47,9 +58,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -3,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -57,12 +68,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4296780914342518,
+                  "scale": 1,
                   "close": true
                 }
               }
             },
-            "group": "d69a4d5878157672"
+            "group": "4b360cd89c25abb6"
           }
         ]
       }
@@ -104,9 +115,11 @@
             "id": "8c1669f679e5d9b2",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Dailys/24-07.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -115,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200
   },
   "right": {
     "id": "01fd90d0c7ed7d1a",
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "horários.md",
+                "file": "integrantes/Duran.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "horários.md",
+                "file": "integrantes/Duran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "horários.md"
+                "file": "integrantes/Duran.md"
               }
             }
           },
@@ -187,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,20 +212,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec33338dfb259377",
+  "active": "ca0a6565f3e03722",
   "lastOpenFiles": [
     "Projetos/Grupo de estudos.md",
-    "integrantes/Duran.md",
-    "horários.md",
-    "Formação em T.md",
-    "Data Science.md",
-    "Projetos/Trilhas.md",
-    "PesquisarDuran.md",
-    "CRM.md",
-    "Pasted image 20230720235029.png",
-    "Pasted image 20230720235026.png",
-    "ERP.md",
+    "Dailys/24-07.md",
     "Pasted image 20230720235015.png",
+    "Dailys",
+    "Pasted image 20230720235026.png",
+    "Pasted image 20230720235029.png",
+    "PesquisarDuran.md",
+    "Untitled.canvas",
+    "Formação em T.md",
+    "integrantes/Duran.md",
+    "Projetos/Trilhas.md",
+    "horários.md",
+    "Data Science.md",
+    "CRM.md",
+    "ERP.md",
     "Teórico/Monetização.md",
     "Chegar nos Clientes.md",
     "Automação.md",
@@ -221,7 +237,6 @@
     "Tarefas/Criar trilhas.md",
     "2023-07-20.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Tecnologias/Javascript.md",
     "Aplicações/Yalon.md",
     "Tecnologias/Github.md",
@@ -231,9 +246,7 @@
     "Projetos/Projetos.md",
     "integrantes.md",
     "Projetos/Obsidian.md",
-    "Teórico/Back-end.md",
     "Teórico",
-    "Aplicações/NetherPortal.md",
     "Aplicações",
     "Tecnologias",
     "Projetos",
