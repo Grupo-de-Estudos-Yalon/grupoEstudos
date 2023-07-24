@@ -39,7 +39,7 @@
       {
         "id": "7dbc955ad16eae0a",
         "type": "tabs",
-        "dimension": 29.108910891089106,
+        "dimension": 29.10891089108911,
         "children": [
           {
             "id": "4f42f69953209699",
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 369.5
   },
   "right": {
     "id": "01fd90d0c7ed7d1a",
@@ -212,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c1669f679e5d9b2",
+  "active": "ac47fc957f8c8b52",
   "lastOpenFiles": [
     "Projetos/Grupo de estudos.md",
     "Aplicações/Esteira.md",
