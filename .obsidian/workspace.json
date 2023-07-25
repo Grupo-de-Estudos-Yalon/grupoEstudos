@@ -6,32 +6,22 @@
       {
         "id": "a22d44cdb6e82906",
         "type": "tabs",
-        "dimension": 21.69197396963124,
         "children": [
-          {
-            "id": "ec33338dfb259377",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230720235015.png"
-              }
-            }
-          },
           {
             "id": "ca0a6565f3e03722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integrantes/Duran.md",
+                "file": "Formação em T.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "4b360cd89c25abb6"
+            "group": "d69a4d5878157672"
           }
         ],
+        "currentTab": 1,
         "currentTab": 1
       },
       {
@@ -45,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "integrantes/Duran.md",
+                "file": "horários.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,9 +48,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -68,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.4296780914342518,
                   "close": true
                 }
               }
             },
-            "group": "4b360cd89c25abb6"
+            "group": "d69a4d5878157672"
           }
         ]
       }
@@ -122,6 +112,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c683718f04fcbf05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integrantes/Duran.md",
+                "file": "Formação em T.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "integrantes/Duran.md",
+                "file": "Formação em T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "integrantes/Duran.md"
+                "file": "Formação em T.md"
               }
             }
           },
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,38 +214,39 @@
   },
   "active": "ca0a6565f3e03722",
   "lastOpenFiles": [
+    "Data Science.md",
+    "Projetos/Trilhas.md",
+    "Teórico/Front-end.md",
+    "Teórico/Back-end.md",
+    "Angular.md",
+    "Tecnologias/React.md",
+    "Pasted image 20230720235015.png",
+    "Projetos/Projetos.md",
+    "Formação em T.md",
+    "integrantes/Duran.md",
+    "Web.md",
+    "UDP.md",
+    "TCP.md",
+    "Protocolos.md",
+    "Notas de Estudos.md",
+    "Business Inteligence.md",
+    "Aplicações/Esteira.md",
     "Projetos/Grupo de estudos.md",
     "Dailys/24-07.md",
-    "Pasted image 20230720235015.png",
     "Dailys",
     "Pasted image 20230720235026.png",
     "Pasted image 20230720235029.png",
     "PesquisarDuran.md",
     "Untitled.canvas",
-    "Formação em T.md",
-    "integrantes/Duran.md",
-    "Projetos/Trilhas.md",
     "horários.md",
-    "Data Science.md",
     "CRM.md",
     "ERP.md",
     "Teórico/Monetização.md",
     "Chegar nos Clientes.md",
     "Automação.md",
     "Projetos/Protótipo.md",
-    "Tarefas/Procurar tipos de automações para vender.md",
-    "Tarefas/Criar trilhas.md",
-    "2023-07-20.md",
     "Untitled 1.canvas",
-    "Tecnologias/Javascript.md",
-    "Aplicações/Yalon.md",
-    "Tecnologias/Github.md",
-    "integrantes/Bastos.md",
     "Tarefas",
-    "Teórico/Front-end.md",
-    "Projetos/Projetos.md",
-    "integrantes.md",
-    "Projetos/Obsidian.md",
     "Teórico",
     "Aplicações",
     "Tecnologias",
