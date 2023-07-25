@@ -1,0 +1,2 @@
+Aplicação que faz [[webScrapping]] de músicas do gênero musical escolhido pelo usuário.
+ Um site específico para definir a quantidade de beats por minuto da música vai ser alimentado com essas músicas, que serão classificadas em pastas(playlists) equivalentes à velocidade na qual a pessoa está correndo.
