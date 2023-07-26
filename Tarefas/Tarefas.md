@@ -11,6 +11,7 @@
 -  Bastos, Biel, Duran, Jayro  - Git / Github
 -  Jotinha - Levantamento de requisitos (100%) 
 	- *Obs: sujeito a alterações, adições e remoções
+	- https://docs.google.com/document/d/1eKQ8MRiUmRdZxLu6MwnkGdktPXPLImOAmXYmKAyFSII/edit?usp=sharing
 
 ## Tarefas da semana 1
 - Bastos, Biel - Pesquisar aplicações em data science e bots
