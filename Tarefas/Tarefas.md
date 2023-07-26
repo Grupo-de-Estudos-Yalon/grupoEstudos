@@ -12,7 +12,10 @@
 -  Jotinha - Levantamento de requisitos (100%) 
 	- *Obs: sujeito a alterações, adições e remoções
 	- https://docs.google.com/document/d/1eKQ8MRiUmRdZxLu6MwnkGdktPXPLImOAmXYmKAyFSII/edit?usp=sharing
-
+*26/07/2023
+- Jayro e Duran - Começar Header e Rodapé em ReactJS
+- Bastos - Começo de estudo de python
+- Jotinha - Criar repo do Yalon, iniciar o projeto de nextjs, iniciar projeto do NetherPortal
 ## Tarefas da semana 1
 - Bastos, Biel - Pesquisar aplicações em data science e bots
 - Jayro, Duran - Desenvolver a homepage
