@@ -1,1 +1,2 @@
-.obsidian/workspace.json
+# OR only to exclude workspace cache
+.obsidian/workspace/*
