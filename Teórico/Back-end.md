@@ -1,2 +1,2 @@
-[[APIs com NodeJS]]
-[[Python]]
+- [[Python]]
+- [[APIs com NodeJS]]

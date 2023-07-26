@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:Tarefas",
+      "color": {
+        "a": 1,
+        "rgb": 14159559
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5292311618389899,
+  "scale": 0.5292311618389902,
   "close": true
 }
