@@ -22,3 +22,6 @@ https://colab.research.google.com/drive/1lS-EVXZ8S0z4-_8N2SaaGKMqARZuzO5g?authus
 https://colab.research.google.com/drive/1lPc1Pkc5bK4kWCEIx7RO6dJibJSOMmEo?authuser=1
 
 
+Cara, por complexidade do projeto das câmeras vou criar uma nota só pra ela
+
+[[Watch Dogs]]
