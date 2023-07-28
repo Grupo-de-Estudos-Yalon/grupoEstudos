@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d8bc004198b011",
+        "id": "c0dc055900ef9914",
         "type": "tabs",
         "children": [
           {
-            "id": "bf799d4208a20821",
+            "id": "37cd0aa53a5a8fc5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Watch Dogs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Watch Dogs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Watch Dogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Watch Dogs.md"
+              }
             }
           },
           {
@@ -158,34 +166,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "bf799d4208a20821",
+  "active": "37cd0aa53a5a8fc5",
   "lastOpenFiles": [
-    "integrantes/Bastos.md",
     "Bastospad.md",
-    "horários.md",
-    "Teórico/Data Science.md",
-    "Trilhas/Formação em T.md",
-    "Projetos/Protótipo.md",
-    "Tecnologias/Javascript.md",
-    "Data Science.md",
+    "integrantes/Bastos.md",
+    "Tarefas/Tarefas.md",
+    "Watch Dogs.md",
     "Projetos/Grupo de estudos.md",
+    "Projetos/Trilhas.md",
     "Notas de Estudos.md",
+    "Dailys/24-07.md",
+    "Aplicações/Yalon.md",
+    "Aplicações/NetherPortal.md",
+    "Aplicações/Esteira.md",
+    "Teórico/Data Science.md",
+    "Projetos/Obsidian.md",
+    "Projetos/Protótipo.md",
+    "Projetos/Projetos.md",
+    "Trilhas/Formação em T.md",
+    "Data Science.md",
+    "horários.md",
+    "Tecnologias/Javascript.md",
     "integrantes/Duran.md",
     "Teórico/Back-end.md",
     "Teórico/Monetização.md",
-    "Aplicações/Yalon.md",
     "Jotinha.md",
     "Angular.md",
     "FTP.md",
     "Teórico/Front-end.md",
-    "Tecnologias/Python.md",
-    "CRM.md",
-    "ERP.md",
-    "Web.md",
-    "Tarefas.md",
-    "Projetos/Trilhas.md",
-    "Projetos/Obsidian.md",
-    "Projetos/Projetos.md",
     "Trilhas",
     "Pasted image 20230720235015.png",
     "Pasted image 20230720235029.png",
