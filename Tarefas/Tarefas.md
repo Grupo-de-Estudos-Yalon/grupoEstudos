@@ -19,8 +19,13 @@
 27/07/2023
 - Jayro e Duran - Criar o rodapé com envio de email.
 - Biel - Git e github e iniciar estudos.
-- Bastos - Continuar o estudo de data Science e ver introdução de análise de imagem cv2.
-- jotinha- Iniciar NetherPortal.
+ - Bastos - Continuar o estudo de data Science e ver introdução de análise de imagem cv2.
+ - jotinha- Iniciar NetherPortal.
+28/07/2023
+- biel - estudo de dataScience e ver introdução de análise de imagem cv2
+- jayro e Duran- Criar o rodapé com envio de email.
+- bastos - continuar elaboração da análise de imagem cv2
+- jotinha - 
  
 ## Tarefas da semana 
 - Bastos, Biel - Pesquisar aplicações em data science e bots

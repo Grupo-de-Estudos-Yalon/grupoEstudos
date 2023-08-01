@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "01369387b18d8dff",
+    "id": "06d52c3605986902",
     "type": "split",
     "children": [
       {
@@ -25,15 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68c4fa21f3d6322b",
+    "id": "0bd7fff6e057a575",
     "type": "split",
     "children": [
       {
-        "id": "1bdfb261b1f0f035",
+        "id": "6bab8d00b3fdb9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba549f6e2054646",
+            "id": "dc09d247891a290c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23bf7b085bb80910",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,47 +58,36 @@
             }
           },
           {
-            "id": "cb997f8fe89afb7b",
+            "id": "214d171373916b36",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8c1669f679e5d9b2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
   "right": {
-    "id": "01fd90d0c7ed7d1a",
+    "id": "f9bce590b6400c4f",
     "type": "split",
     "children": [
       {
-        "id": "f6b9d036d245e71c",
+        "id": "31a6ecc110c3095f",
         "type": "tabs",
         "children": [
           {
-            "id": "c7427a284ff09954",
+            "id": "9909df46d8edc5b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "robocop.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -98,7 +97,7 @@
             }
           },
           {
-            "id": "238c6184e3135a18",
+            "id": "79a2a1da0bad75c8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,18 +109,18 @@
             }
           },
           {
-            "id": "aebc7bc62370ee97",
+            "id": "8c2c0b3bc2a3a7fc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "73471951c8d9dc75",
+            "id": "d535aab611ceb397",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,7 +130,7 @@
             }
           },
           {
-            "id": "a608b3ee807ff13b",
+            "id": "fe0ad4c58a0c88d4",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -142,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
