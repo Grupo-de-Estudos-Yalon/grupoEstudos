@@ -26,7 +26,10 @@
 - jayro e Duran- Criar o rodapé com envio de email.
 - bastos - continuar elaboração da análise de imagem cv2
 - jotinha - 
- 
+ 01/08/2023
+ - Jayro e Duran - enviar perguntas para bastos, continuar desenvolvimento de header e footer.
+ - Jotinha - Criação do trello
+ - Bastos e Biel - Continuação do bot
 ## Tarefas da semana 
 - Bastos, Biel - Pesquisar aplicações em data science e bots
 - Jayro, Duran - Desenvolver a homepage
