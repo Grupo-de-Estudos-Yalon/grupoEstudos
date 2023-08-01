@@ -25,3 +25,5 @@ https://colab.research.google.com/drive/1lPc1Pkc5bK4kWCEIx7RO6dJibJSOMmEo?authus
 Cara, por complexidade do projeto das câmeras vou criar uma nota só pra ela
 
 [[Watch Dogs]]
+
+[[robocop]] 
