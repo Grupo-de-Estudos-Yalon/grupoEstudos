@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "06d52c3605986902",
+    "id": "01369387b18d8dff",
     "type": "split",
     "children": [
       {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefas/Tarefas.md",
+                "file": "Tecnologias/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0bd7fff6e057a575",
+    "id": "68c4fa21f3d6322b",
     "type": "split",
     "children": [
       {
-        "id": "6bab8d00b3fdb9e5",
+        "id": "1bdfb261b1f0f035",
         "type": "tabs",
         "children": [
           {
-            "id": "dc09d247891a290c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "23bf7b085bb80910",
+            "id": "5ba549f6e2054646",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,36 +48,46 @@
             }
           },
           {
-            "id": "214d171373916b36",
+            "id": "cb997f8fe89afb7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "8c1669f679e5d9b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "right": {
-    "id": "f9bce590b6400c4f",
+    "id": "01fd90d0c7ed7d1a",
     "type": "split",
     "children": [
       {
-        "id": "31a6ecc110c3095f",
+        "id": "f6b9d036d245e71c",
         "type": "tabs",
         "children": [
           {
-            "id": "9909df46d8edc5b9",
+            "id": "c7427a284ff09954",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarefas/Tarefas.md",
+                "file": "Tecnologias/Github.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,40 +97,40 @@
             }
           },
           {
-            "id": "79a2a1da0bad75c8",
+            "id": "238c6184e3135a18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarefas/Tarefas.md",
+                "file": "Tecnologias/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8c2c0b3bc2a3a7fc",
+            "id": "aebc7bc62370ee97",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "d535aab611ceb397",
+            "id": "73471951c8d9dc75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarefas/Tarefas.md"
+                "file": "Tecnologias/Github.md"
               }
             }
           },
           {
-            "id": "fe0ad4c58a0c88d4",
+            "id": "a608b3ee807ff13b",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -141,17 +141,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
-      "canvas:Create new canvas": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "49ecebea3d66c608",
@@ -159,32 +158,34 @@
     "Projetos/Projetos.md",
     "Tarefas/Tarefas.md",
     "robocop.md",
-    "Bastospad.md",
-    "integrantes/Bastos.md",
+    "integrantes/Biel.md",
     "Watch Dogs.md",
     "Projetos/Protótipo.md",
     "Projetos/Grupo de estudos.md",
     "Projetos/Trilhas.md",
-    "Notas de Estudos.md",
-    "Dailys/24-07.md",
+    "Bastospad.md",
+    "integrantes/Bastos.md",
+    "Tarefas/Tarefas.md",
     "Aplicações/Yalon.md",
-    "Aplicações/NetherPortal.md",
-    "Aplicações/Esteira.md",
-    "Teórico/Data Science.md",
     "Projetos/Obsidian.md",
-    "Trilhas/Formação em T.md",
-    "Data Science.md",
-    "horários.md",
+    "Tecnologias/Python.md",
     "Tecnologias/Javascript.md",
-    "integrantes/Duran.md",
-    "Teórico/Back-end.md",
-    "Teórico/Monetização.md",
-    "Jotinha.md",
-    "Angular.md",
-    "FTP.md",
+    "Data Science.md",
+    "Aplicações/Esteira.md",
+    "Trilhas/Formação em T.md",
+    "Trilhas/APIs com NodeJS.md",
     "Trilhas",
-    "Pasted image 20230720235015.png",
+    "Teórico/Data Science.md",
+    "Teórico/Automação.md",
+    "Jotinha.md",
+    "HTTP.md",
+    "FTP.md",
+    "Dailys/24-07.md",
+    "Dailys",
+    "Angular.md",
+    "Notas de Estudos.md",
     "Pasted image 20230720235029.png",
+    "Protocolos.md",
     "Pasted image 20230720235026.png",
     "Pasted image 20230720235015.png",
     "Untitled.canvas",
