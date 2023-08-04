@@ -5,9 +5,11 @@
     "children": [
       {
         "id": "bb1d9dbb4f9f21ca",
+        "id": "bb1d9dbb4f9f21ca",
         "type": "tabs",
         "children": [
           {
+            "id": "4fe4b4291460ebc7",
             "id": "4fe4b4291460ebc7",
             "type": "leaf",
             "state": {
@@ -73,6 +75,7 @@
       }
     ],
     "direction": "horizontal",
+    "width": 257.5
     "width": 257.5
   },
   "right": {
@@ -158,8 +161,15 @@
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
       "command-palette:Abrir paleta de comando": false
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false
     }
   },
+  "active": "4fe4b4291460ebc7",
   "active": "4fe4b4291460ebc7",
   "lastOpenFiles": [
     "Projetos/Grupo de estudos.md",
