@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologias/Github.md",
+                "file": "Tarefas/Tarefas.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologias/Github.md",
+                "file": "Tarefas/Tarefas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologias/Github.md",
+                "file": "Tarefas/Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologias/Github.md"
+                "file": "Tarefas/Tarefas.md"
               }
             }
           },
@@ -155,18 +156,18 @@
   },
   "active": "ec33338dfb259377",
   "lastOpenFiles": [
-    "robocop.md",
-    "integrantes/Biel.md",
-    "Watch Dogs.md",
-    "Tecnologias/Github.md",
     "Projetos/Grupo de estudos.md",
-    "Projetos/Trilhas.md",
+    "Tecnologias/Github.md",
+    "integrantes/Biel.md",
+    "robocop.md",
     "Bastospad.md",
     "integrantes/Bastos.md",
+    "Tecnologias/Python.md",
+    "Watch Dogs.md",
+    "Projetos/Trilhas.md",
     "Tarefas/Tarefas.md",
     "Aplicações/Yalon.md",
     "Projetos/Obsidian.md",
-    "Tecnologias/Python.md",
     "Tecnologias/Javascript.md",
     "Data Science.md",
     "Aplicações/Esteira.md",
