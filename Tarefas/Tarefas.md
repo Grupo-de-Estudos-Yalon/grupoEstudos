@@ -30,6 +30,18 @@
  - Jayro e Duran - enviar perguntas para bastos, continuar desenvolvimento de header e footer.
  - Jotinha - Criação do trello
  - Bastos e Biel - Continuação do bot
+ 02/08/2023
+ - Duran - Continuar o footer e dar inicio ao "sobre nós"
+ - Bastos e Biel - Continuação do bot
+ - Jotinha - netherportal
+  03/08/2023
+ - Duran - Continuar o footer e dar inicio ao "sobre nós"
+ - Bastos e Biel - Continuação do bot
+ - Jotinha - netherportal
+ 04/08/2023
+ - Duran e Jayro - Continuar o desenvolvimento do yalon e documentar
+ - Bastos e Biel - Continuar o desenvolvimento do bot e documentar
+ - Jotinha - Netherportal
 ## Tarefas da semana 
 - Bastos, Biel - Pesquisar aplicações em data science e bots
 - Jayro, Duran - Desenvolver a homepage
