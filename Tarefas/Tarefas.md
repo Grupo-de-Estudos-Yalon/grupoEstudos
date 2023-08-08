@@ -42,7 +42,18 @@
  - Duran e Jayro - Continuar o desenvolvimento do yalon e documentar
  - Bastos e Biel - Continuar o desenvolvimento do bot e documentar
  - Jotinha - Netherportal
+ 07/08/2023
+ - duran e jayro - pesquisar referencia pra pagina de serviços 
+ - bastos - pesquisar projeto esteira(web Scrapping)
+ - biel - terminar bot e documentação, pesquisar projeto esteira(web Scrapping)
+ - jotinha - terminar NetherPortal
+  08/08/2023
+ - duran e jayro - pesquisar referencia pra pagina de serviços 
+ - bastos - pesquisar projeto esteira(web Scrapping), estudar web scrapping
+ - biel - terminar bot e documentação, pesquisar projeto esteira(web Scrapping)
+ - jotinha - terminar NetherPortal
 ## Tarefas da semana 
-- Bastos, Biel - Pesquisar aplicações em data science e bots
-- Jayro, Duran - Desenvolver a homepage
-- Jotinha - Netherportal
+- Bastos, Biel - projeto da esteira(web Scrapping)
+- Jayro, Duran - Desenvolver pagina de serviços
+- Jotinha - Terminal NetherPortal
+- Todos -

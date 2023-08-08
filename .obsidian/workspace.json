@@ -1,21 +1,18 @@
 {
   "main": {
-    "id": "01369387b18d8dff",
+    "id": "bcebedd54aa52950",
     "type": "split",
     "children": [
       {
-        "id": "bb1d9dbb4f9f21ca",
-        "id": "bb1d9dbb4f9f21ca",
+        "id": "b433af898a04d64c",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe4b4291460ebc7",
-            "id": "4fe4b4291460ebc7",
+            "id": "e53cc6876e87dad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefas/Tarefas.md",
                 "file": "Tarefas/Tarefas.md",
                 "mode": "source",
                 "source": false
@@ -28,15 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68c4fa21f3d6322b",
+    "id": "13a5d6581c2d2473",
     "type": "split",
     "children": [
       {
-        "id": "1bdfb261b1f0f035",
+        "id": "2864f26e92ba6952",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba549f6e2054646",
+            "id": "c7a0d7fa4f713cc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2eb0661e0c2019e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,51 +58,36 @@
             }
           },
           {
-            "id": "cb997f8fe89afb7b",
+            "id": "484b6834e70defa0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8c1669f679e5d9b2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
-    "width": 257.5
+    "width": 300
   },
   "right": {
-    "id": "01fd90d0c7ed7d1a",
+    "id": "b762a134ac2d7b43",
     "type": "split",
     "children": [
       {
-        "id": "f6b9d036d245e71c",
+        "id": "f302dacae0d4049b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7427a284ff09954",
+            "id": "fc1ab4357d7e7263",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Tarefas/Tarefas.md",
-                "file": "Tarefas/Tarefas.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -105,12 +97,11 @@
             }
           },
           {
-            "id": "238c6184e3135a18",
+            "id": "cb0b218bdad34342",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarefas/Tarefas.md",
                 "file": "Tarefas/Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -118,29 +109,28 @@
             }
           },
           {
-            "id": "aebc7bc62370ee97",
+            "id": "1739aff56906ce49",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "73471951c8d9dc75",
+            "id": "0205fb5b24a04aff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Tarefas/Tarefas.md"
-                "file": "Tarefas/Tarefas.md"
               }
             }
           },
           {
-            "id": "a608b3ee807ff13b",
+            "id": "e3249943cfba25dd",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -151,61 +141,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fe4b4291460ebc7",
-  "active": "4fe4b4291460ebc7",
+  "active": "e53cc6876e87dad5",
   "lastOpenFiles": [
-    "Projetos/Grupo de estudos.md",
-    "Tecnologias/Github.md",
-    "integrantes/Biel.md",
-    "robocop.md",
     "Bastospad.md",
-    "integrantes/Bastos.md",
-    "Tecnologias/Python.md",
     "Watch Dogs.md",
-    "Projetos/Trilhas.md",
-    "Tarefas/Tarefas.md",
-    "Aplicações/Yalon.md",
-    "Projetos/Obsidian.md",
-    "Tecnologias/Javascript.md",
-    "Data Science.md",
-    "Aplicações/Esteira.md",
-    "Trilhas/Formação em T.md",
-    "Trilhas/APIs com NodeJS.md",
-    "Trilhas",
-    "Teórico/Data Science.md",
-    "Teórico/Automação.md",
-    "Jotinha.md",
-    "HTTP.md",
-    "FTP.md",
-    "Dailys",
-    "Pasted image 20230720235029.png",
-    "Pasted image 20230720235026.png",
-    "Pasted image 20230720235015.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Tarefas",
-    "Teórico",
-    "Aplicações",
-    "Tecnologias",
-    "Projetos",
-    "Integrantes"
+    "robocop.md",
+    "integrantes/Bastos.md",
+    "Projetos/Grupo de estudos.md",
+    "Projetos/Projetos.md",
+    "Tarefas/Tarefas.md"
   ]
 }
