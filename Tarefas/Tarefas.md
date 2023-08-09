@@ -52,6 +52,11 @@
  - bastos - pesquisar projeto esteira(web Scrapping), estudar web scrapping
  - biel - terminar bot e documentação, pesquisar projeto esteira(web Scrapping)
  - jotinha - terminar NetherPortal
+ 09/08/2023
+ - Duran - hospedar um vídeo de teste e fazer o pull
+ - Jayro - Continuar o estudo em next e aplicar código e fazer o push
+ - Bastos e Biel - Estudos de web scrapping + aplicação
+ - Jotinha - Nether portal
 ## Tarefas da semana 
 - Bastos, Biel - projeto da esteira(web Scrapping)
 - Jayro, Duran - Desenvolver pagina de serviços
