@@ -1,2 +1,3 @@
 # OR only to exclude workspace cache
-/.obsidian/workspace.json
+.obsidian/workspace.json
+.obsidian/plugins/NetherPortal

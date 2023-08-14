@@ -57,8 +57,17 @@
  - Jayro - Continuar o estudo em next e aplicar código e fazer o push
  - Bastos e Biel - Estudos de web scrapping + aplicação
  - Jotinha - Nether portal
-## Tarefas da semana 
+ 14/08/2023
+ - Duran - Voltar da Bahia
+ - Jayro - Continuar o estudo em next e aplicar código e fazer o push
+ - Bastos e Biel - Estudos de web scrapping + aplicação
+ - Jotinha - Nether portal
+## Tarefas da semana 2 
 - Bastos, Biel - projeto da esteira(web Scrapping)
 - Jayro, Duran - Desenvolver pagina de serviços
-- Jotinha - Terminal NetherPortal
-- Todos -
+- Jotinha - NetherPortal
+## Tarefas da semana 3
+- Bastos, Biel - projeto da esteira(web Scrapping)
+- Jayro, Duran - Desenvolver pagina de serviços
+- Jotinha - Terminar NetherPortal
+- Todos - Conventional commits (https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
