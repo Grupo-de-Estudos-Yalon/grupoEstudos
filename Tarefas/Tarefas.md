@@ -62,6 +62,13 @@
  - Jayro - Continuar o estudo em next e aplicar código e fazer o push
  - Bastos e Biel - Estudos de web scrapping + aplicação
  - Jotinha - Nether portal
+ 15/08/2023
+ Alopraram
+ 16/08/2023
+ - Duran - aloprou sozinho
+ - Jayro - Passar assuntos da daily pro aloprão + Continuar projeto do yalon
+ - Bastos e Biel - Continuar projeto da esteira (testar novas tecnologias)
+ - Jotinha - Esqueleto da Projeto TSMR
 ## Tarefas da semana 2 
 - Bastos, Biel - projeto da esteira(web Scrapping)
 - Jayro, Duran - Desenvolver pagina de serviços
