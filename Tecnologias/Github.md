@@ -1,0 +1,11 @@
+comandos
+- git pull origin (referenciaDeUsuario) = puxar brench(refefenciaDeUsuario)
+- git pull = puxa o master
+- git add . = adicionar tudo
+- git add (referenciaDeNota) = adicionar um especifico 
+- git commit -m"Mensagem" = realiza commit passando mensagem
+- git push = botar codigos no gitHub
+- git status = ver o que modificou e o que precisa adicionar
+- git branch = mostrar a branch que usuario está
+- git checkout (referenciaBranch) = ir pra branch selecionada
+- git checkout -b (NomeBranch) = criar branch nova e ir para ela

@@ -1,4 +1,4 @@
-1. **Coleta de dados**: O primeiro passo é coletar um conjunto de dados contendo imagens de pessoas com suas idades correspondentes. Existem bancos de dados disponíveis que você pode utilizar, como o "Adience Benchmark" ou o "UTKFace", que contêm imagens de rostos com suas respectivas idades.
+31. **Coleta de dados**: O primeiro passo é coletar um conjunto de dados contendo imagens de pessoas com suas idades correspondentes. Existem bancos de dados disponíveis que você pode utilizar, como o "Adience Benchmark" ou o "UTKFace", que contêm imagens de rostos com suas respectivas idades.
     
 2. **Pré-processamento de imagens**: As imagens coletadas precisam ser pré-processadas antes de serem usadas para treinar o modelo. Isso pode envolver a redimensionamento das imagens, normalização de intensidades de pixel e outros ajustes para tornar o conjunto de dados consistente.
     
@@ -28,3 +28,6 @@ https://youtu.be/k1GIEkzQ8qc (treinando ia para reconhecer imagem de churros)
 https://susanqq.github.io/UTKFace/ (rostos)
 
 https://pytorch.org/get-started/locally/ (pytorch)
+
+
+# projeto deu uma pausa
