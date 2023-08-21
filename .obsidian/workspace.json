@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch Dogs.md",
+                "file": "Tarefas/Tarefas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Watch Dogs.md",
+                "file": "Tarefas/Tarefas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watch Dogs.md",
+                "file": "Tarefas/Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch Dogs.md"
+                "file": "Tarefas/Tarefas.md"
               }
             }
           },
@@ -156,10 +156,10 @@
   },
   "active": "37cd0aa53a5a8fc5",
   "lastOpenFiles": [
+    "Watch Dogs.md",
     "Bastospad.md",
     "integrantes/Bastos.md",
     "Tarefas/Tarefas.md",
-    "Watch Dogs.md",
     "Projetos/Grupo de estudos.md",
     "Projetos/Trilhas.md",
     "Notas de Estudos.md",
