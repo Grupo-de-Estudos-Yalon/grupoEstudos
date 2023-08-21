@@ -69,6 +69,10 @@
  - Jayro - Passar assuntos da daily pro aloprão + Continuar projeto do yalon
  - Bastos e Biel - Continuar projeto da esteira (testar novas tecnologias)
  - Jotinha - Esqueleto da Projeto TSMR
+ 21/08/2023
+ - Duran e Jayro - roteiro pro vídeo e resolver next.js
+ - Bastos e Biel - Estudo de API e implementação na esteira
+ - Jotinha - Ajudar
 ## Tarefas da semana 2 
 - Bastos, Biel - projeto da esteira(web Scrapping)
 - Jayro, Duran - Desenvolver pagina de serviços
@@ -78,3 +82,9 @@
 - Jayro, Duran - Desenvolver pagina de serviços
 - Jotinha - Terminar NetherPortal
 - Todos - Conventional commits (https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
+## Tarefas Da semana 4 
+- Todos - Conventional commits (https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
+- Duran - começar a gravar
+- Jayro - Desenvolver o 'Sobre nós'
+- bastos - Implementação e finalização da esteira
+- Biel - Estudo de python e APIs
