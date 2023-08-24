@@ -77,6 +77,14 @@
  - Duran e Jayro - roteiro pro vídeo e resolver next.js
  - Bastos e Biel - Estudo de API e implementação na esteira
  - Jotinha - Ajudar
+ 23/08/2023
+ - Estudo presencial
+ 24/08/2023
+ - Duran - roteiro de vídeo + estudo js
+ - Bastos - Estudo js + implementação na esteira
+ - Biel - Estudo js + estudo API
+ - Jayro - Resolver o next.js
+ - Jotinha - Ajudar membros
 ## Tarefas da semana 2 
 - Bastos, Biel - projeto da esteira(web Scrapping)
 - Jayro, Duran - Desenvolver pagina de serviços
